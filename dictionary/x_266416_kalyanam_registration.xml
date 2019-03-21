@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Registration" max_length="40" name="x_266416_kalyanam_registration" sizeclass="6" type="collection">
+        <element label="annual income" max_length="40" name="annual_income" type="string"/>
+        <element choice="1" label="body type" max_length="40" name="body_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="slim" sequence="0" value="slim"/>
+                <element inactive_on_update="false" label="athletic" sequence="1" value="athletic"/>
+                <element inactive_on_update="false" label="average" sequence="2" value="average"/>
+                <element inactive_on_update="false" label="heavy" sequence="3" value="heavy"/>
+            </choice>
+        </element>
+        <element label="date of birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element choice="1" label="diet" max_length="40" name="diet" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="veg" sequence="0" value="veg"/>
+                <element inactive_on_update="false" label="non-veg" sequence="1" value="non-veg"/>
+            </choice>
+        </element>
+        <element choice="1" label="do you drink?" max_length="40" name="do_you_drink" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="no" sequence="1" value="no"/>
+                <element inactive_on_update="false" label="occasionally" sequence="2" value="occasionally"/>
+            </choice>
+        </element>
+        <element choice="1" label="do you smoke?" max_length="40" name="do_you_smoke" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="no" sequence="1" value="no"/>
+                <element inactive_on_update="false" label="occasionally" sequence="2" value="occasionally"/>
+            </choice>
+        </element>
+        <element label="education field" max_length="40" name="education_field" type="string"/>
+        <element label="education level" max_length="40" name="education_level" type="string"/>
+        <element label="e-mail" max_length="40" name="e_mail" type="string"/>
+        <element label="first name" max_length="40" name="first_name" type="string"/>
+        <element choice="1" label="gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="email" sequence="0" value="email"/>
+                <element inactive_on_update="false" label="male" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="female" sequence="1" value="female"/>
+            </choice>
+        </element>
+        <element choice="1" label="gotra" max_length="40" name="gothra" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Abnavana" sequence="0" value="abnavana"/>
+                <element inactive_on_update="false" label="Ayodya" sequence="1" value="ayodya"/>
+                <element inactive_on_update="false" label="Arihant" sequence="2" value="arihant"/>
+                <element inactive_on_update="false" label="Aamat" sequence="3" value="aamat"/>
+                <element inactive_on_update="false" label="Achyuta" sequence="4" value="achyuta"/>
+                <element inactive_on_update="false" label="Aashta" sequence="5" value="aashta"/>
+                <element inactive_on_update="false" label="Adishya" sequence="6" value="adishya"/>
+                <element inactive_on_update="false" label="Agara" sequence="7" value="agara"/>
+            </choice>
+        </element>
+        <element label="height in ft" max_length="40" name="height_in_ft" type="float"/>
+        <element label="last name" max_length="40" name="last_name" type="string"/>
+        <element choice="1" label="marital status" max_length="40" name="marital_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="single" sequence="0" value="single"/>
+                <element inactive_on_update="false" label="married" sequence="1" value="married"/>
+                <element inactive_on_update="false" label="widowed" sequence="2" value="widowed"/>
+                <element inactive_on_update="false" label="divorced" sequence="3" value="divorced"/>
+                <element inactive_on_update="false" label="seperated" sequence="4" value="seperated"/>
+            </choice>
+        </element>
+        <element choice="1" label="nakshatra" max_length="40" name="nakshatra" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Kṛttika" sequence="0" value="kṛttika"/>
+                <element inactive_on_update="false" label="Rohini" sequence="1" value="rohini"/>
+                <element inactive_on_update="false" label="Revati" sequence="2" value="revati"/>
+                <element inactive_on_update="false" label="Ashvini" sequence="3" value="ashvini"/>
+                <element inactive_on_update="false" label="Bharani" sequence="4" value="bharani"/>
+            </choice>
+        </element>
+        <element label="profile pic" max_length="40" name="profile_pic" type="user_image"/>
+        <element choice="1" label="skin tone" max_length="40" name="skin_tone" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="very fair" sequence="0" value="very fair"/>
+                <element inactive_on_update="false" label="fair" sequence="1" value="fair"/>
+                <element inactive_on_update="false" label="tan" sequence="2" value="tan"/>
+                <element inactive_on_update="false" label="dark" sequence="3" value="dark"/>
+            </choice>
+        </element>
+        <element label="user name" max_length="40" name="user_name" type="string"/>
+        <element choice="1" label="your community" max_length="40" name="your_community" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="agrahari" sequence="0" value="agrahari"/>
+                <element inactive_on_update="false" label="agrawal" sequence="1" value="agrawal"/>
+                <element inactive_on_update="false" label="brahmins" sequence="2" value="brahmins"/>
+                <element inactive_on_update="false" label="gurjars" sequence="3" value="gurjars"/>
+                <element inactive_on_update="false" label="khatris" sequence="4" value="khatris"/>
+            </choice>
+        </element>
+        <element label="you work with" max_length="40" name="you_work_with" type="string"/>
+    </element>
+</database>

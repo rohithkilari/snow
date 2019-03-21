@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="gothra" table="x_266416_kalyanam_registration" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gothra</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Abnavana</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53ecff40db08370019f35901cf961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>abnavana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gothra</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ayodya</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfecff40db08370019f35901cf961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>ayodya</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gothra</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Arihant</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9becff40db08370019f35901cf961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>arihant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gothra</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aamat</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57ecff40db08370019f35901cf961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>aamat</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gothra</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Achyuta</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13ecff40db08370019f35901cf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>achyuta</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gothra</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aashta</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbecff40db08370019f35901cf96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>aashta</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gothra</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adishya</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97ecff40db08370019f35901cf96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>adishya</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gothra</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agara</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53ecff40db08370019f35901cf96193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>agara</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>gothra</element>
+            <name>x_266416_kalyanam_registration</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_id>9becff40db08370019f35901cf961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>gothra</sys_name>
+            <sys_package display_value="Kalyanam" source="x_266416_kalyanam">4abb96f7dbbbe30019f35901cf9619e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kalyanam">4abb96f7dbbbe30019f35901cf9619e2</sys_scope>
+            <sys_update_name>sys_choice_x_266416_kalyanam_registration_gothra</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

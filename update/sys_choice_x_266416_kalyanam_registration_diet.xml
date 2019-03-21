@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="diet" table="x_266416_kalyanam_registration" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>diet</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>veg</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-02 08:09:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8205aabfdbbbe30019f35901cf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-02 08:09:52</sys_updated_on>
+            <value>veg</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>diet</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>non-veg</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-02 08:09:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4205aabfdbbbe30019f35901cf96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-02 08:09:52</sys_updated_on>
+            <value>non-veg</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>diet</element>
+            <name>x_266416_kalyanam_registration</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-02 08:09:52</sys_created_on>
+            <sys_id>0e05aabfdbbbe30019f35901cf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>diet</sys_name>
+            <sys_package display_value="Kalyanam" source="x_266416_kalyanam">4abb96f7dbbbe30019f35901cf9619e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kalyanam">4abb96f7dbbbe30019f35901cf9619e2</sys_scope>
+            <sys_update_name>sys_choice_x_266416_kalyanam_registration_diet</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-02 08:09:52</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

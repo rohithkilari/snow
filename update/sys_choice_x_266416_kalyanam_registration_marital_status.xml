@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="marital_status" table="x_266416_kalyanam_registration" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marital_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>single</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8becff40db08370019f35901cf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>single</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marital_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>married</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0becff40db08370019f35901cf96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>married</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marital_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>widowed</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3ecff40db08370019f35901cf96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>widowed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marital_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>divorced</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8fecff40db08370019f35901cf96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>divorced</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>marital_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>seperated</label>
+            <language>en</language>
+            <name>x_266416_kalyanam_registration</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4becff40db08370019f35901cf961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+            <value>seperated</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>marital_status</element>
+            <name>x_266416_kalyanam_registration</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-03 09:12:21</sys_created_on>
+            <sys_id>c3ecff40db08370019f35901cf96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>marital_status</sys_name>
+            <sys_package display_value="Kalyanam" source="x_266416_kalyanam">4abb96f7dbbbe30019f35901cf9619e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kalyanam">4abb96f7dbbbe30019f35901cf9619e2</sys_scope>
+            <sys_update_name>sys_choice_x_266416_kalyanam_registration_marital_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-03 09:12:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="gothra and nakshatra" section_id="3f22aa3fdbbbe30019f35901cf961988" sys_domain="global" table="x_266416_kalyanam_registration" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>marital_status</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-02 11:43:56</sys_created_on>
+            <sys_id>ce06dffbdb3fe30019f35901cf961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="gothra and nakshatra" display_value="gothra and nakshatra" name="x_266416_kalyanam_registration" sys_domain="global" view="Default view">3f22aa3fdbbbe30019f35901cf961988</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-02 11:43:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>your_community</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-02 11:43:56</sys_created_on>
+            <sys_id>4206dffbdb3fe30019f35901cf96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="gothra and nakshatra" display_value="gothra and nakshatra" name="x_266416_kalyanam_registration" sys_domain="global" view="Default view">3f22aa3fdbbbe30019f35901cf961988</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-02 11:43:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_birth</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-02 11:43:56</sys_created_on>
+            <sys_id>c206dffbdb3fe30019f35901cf96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="gothra and nakshatra" display_value="gothra and nakshatra" name="x_266416_kalyanam_registration" sys_domain="global" view="Default view">3f22aa3fdbbbe30019f35901cf961988</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-02 11:43:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gothra</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-02 11:43:56</sys_created_on>
+            <sys_id>4606dffbdb3fe30019f35901cf96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="gothra and nakshatra" display_value="gothra and nakshatra" name="x_266416_kalyanam_registration" sys_domain="global" view="Default view">3f22aa3fdbbbe30019f35901cf961988</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-02 11:43:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nakshatra</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-02 11:43:56</sys_created_on>
+            <sys_id>c606dffbdb3fe30019f35901cf96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="gothra and nakshatra" display_value="gothra and nakshatra" name="x_266416_kalyanam_registration" sys_domain="global" view="Default view">3f22aa3fdbbbe30019f35901cf961988</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-02 11:43:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>gothra and nakshatra</caption>
+            <header>false</header>
+            <name>x_266416_kalyanam_registration</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-02 07:57:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f22aa3fdbbbe30019f35901cf961988</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>gothra and nakshatra</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Kalyanam" source="x_266416_kalyanam">4abb96f7dbbbe30019f35901cf9619e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kalyanam">4abb96f7dbbbe30019f35901cf9619e2</sys_scope>
+            <sys_update_name>sys_ui_section_3f22aa3fdbbbe30019f35901cf961988</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-02 11:43:56</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
