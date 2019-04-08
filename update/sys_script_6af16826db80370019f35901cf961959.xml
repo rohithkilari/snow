@@ -30,20 +30,44 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	var gen;
+	var c=1;
   var rec = new GlideRecord('x_266416_kalyanam_registration');
 	rec.query();
 	 while(rec.next()) 
 	 {
-		 if(gs.getUserName()==rec.user_name)
+		 if(current.user_name==rec.user_name)
 			 {
-				 gen=rec.gender;
+				 rec.gender=current.gender;
+				 rec.your_community=current.your_community;
+				 rec.you_work_with=current.you_work_with;
+				 rec.annual_income=current.annual_income;
+				 rec.body_type=current.body_type;
+				 rec.date_of_birth=current.date_of_birth;
+				 rec.diet=current.diet;
+				 rec.do_you_drink=current.do_you_drink;
+				 rec.do_you_smoke=current.do_you_smoke;
+				 rec.education_field=current.education_field;
+				 rec.education_level=current.education_level;
+				 rec.gothra=current.gothra;
+				 rec.height_in_ft=current.height_in_ft;
+				 rec.marital_status=current.marital_status;
+				 
+				 rec.nakshatra=current.nakshatra;
+				 rec.number=current.number;
+				 rec.skin_tone=current.skin_tone;
+				rec.update();
+				 current.setAbortAction(true);
+				 gs.addInfoMessage('Existing profile has been updated');
+				 c=2;
 				 break;
 				 
 			 }
                     
           }
-	gs.addErrorMessage(gen);
-	
+	if(c==1)
+		{
+    gs.addInfoMessage('Profile created');
+		}
 	
 
 })(current, previous);]]></script>
@@ -53,7 +77,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6af16826db80370019f35901cf961959</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>checkk</sys_name>
         <sys_overrides/>
         <sys_package display_value="Kalyanam" source="x_266416_kalyanam">4abb96f7dbbbe30019f35901cf9619e2</sys_package>
@@ -61,7 +85,7 @@
         <sys_scope display_value="Kalyanam">4abb96f7dbbbe30019f35901cf9619e2</sys_scope>
         <sys_update_name>sys_script_6af16826db80370019f35901cf961959</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-10 12:19:18</sys_updated_on>
+        <sys_updated_on>2019-04-05 06:18:29</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
